@@ -1,0 +1,6 @@
+[submodule "models/esrgan"]
+	path = models/esrgan
+	url = https://github.com/xinntao/ESRGAN
+[submodule "models/edsr"]
+	path = models/edsr
+	url = https://github.com/sanghyun-son/EDSR-PyTorch.git
